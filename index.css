@@ -163,7 +163,7 @@ header a:hover {
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url("media/Constelaciones-CUERPOTEXTO.jpg");
+    url("media/Constelaciones.jpg");
 }
 
 .carta:nth-child(3) {
@@ -172,7 +172,7 @@ header a:hover {
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url("media/images\ univ.jpg");
+    url("media/inicio\ \(1\).jpg");
 }
 
 #caracteristicas .container {
